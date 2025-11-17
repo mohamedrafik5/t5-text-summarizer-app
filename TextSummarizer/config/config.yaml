@@ -1,0 +1,7 @@
+model:
+  name: "t5-small"
+  max_summary_length: 150
+  min_summary_length: 30
+  max_input_length: 512
+  num_beams: 4
+  length_penalty: 2.0
